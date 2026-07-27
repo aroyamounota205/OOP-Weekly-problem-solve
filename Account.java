@@ -5,7 +5,6 @@ class BankAccountActionInvalidException extends Exception {
         super(message);
     }
 }
-
 class BankAccount {
 
     private int balance;
