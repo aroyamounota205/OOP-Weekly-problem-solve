@@ -3,7 +3,6 @@ class Arithmetic {
         return a + b;
     }
 }
-
 class Adder extends Arithmetic {}
 
 public class Inheritance2 {
