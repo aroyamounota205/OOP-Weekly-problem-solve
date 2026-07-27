@@ -2,7 +2,6 @@ import java.util.*;
 
 class Singleton {
     public String str;
-
     private static Singleton singleInstance = null;
 
     private Singleton() {};
