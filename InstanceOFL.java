@@ -3,7 +3,6 @@ import java.util.*;
 class Student{}
 class Rockstar{}
 class Hacker{}
-
 public class InstanceOFL{
     
    static String count(ArrayList mylist){
