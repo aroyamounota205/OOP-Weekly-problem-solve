@@ -9,7 +9,6 @@ class Sports {
         System.out.println("Each team has n players in " + getName());
     }
 }
-
 class Soccer extends Sports {
     @Override
     String getName() {
