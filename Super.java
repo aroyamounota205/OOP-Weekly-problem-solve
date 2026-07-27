@@ -4,7 +4,6 @@ class BiCycle {
         return "a cycle who is a vehicle with pedals.";
     }
 }
-
 class MotorCycle extends BiCycle {
     @Override
     String define_me() {
